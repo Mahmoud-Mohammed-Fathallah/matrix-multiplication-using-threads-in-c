@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648670263 source:/home/mahmoud/Desktop/lab2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<string.h>
+
